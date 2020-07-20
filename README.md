@@ -6,6 +6,7 @@ A curated list of image enhancement and denoising papers.
 - Low light / Extremely low light
 - Image denoising
 - Related papers
+- Datasets
 - References
 
 ## General Enhancement
@@ -18,6 +19,7 @@ A curated list of image enhancement and denoising papers.
 ## Low light / Extremely low light
 For low light settings, **denoising** is a very important factor.
 
+### Learning-based
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
 |Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement|No|[Link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf)|CVPR 2020||
@@ -27,10 +29,19 @@ For low light settings, **denoising** is a very important factor.
 |Enhancing Low Light Videos by Exploring High Sensitivity Camera Noise||[Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Enhancing_Low_Light_Videos_by_Exploring_High_Sensitivity_Camera_Noise_ICCV_2019_paper.pdf)|ICCV 2019|Video|
 |Underexposed Photo Enhancement Using Deep Illumination Estimation||[Link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)|CVPR 2019|Underexposed photos|
 
+### Traditional
+|Paper|Supervised|Link|Conference|Notes|
+|---|---|---|---|---|
+
 ## Related papers
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
 |Deep Image Prior|No|[Link](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|CVPR 2018||
 
+## Datasets
+|Dataset|Link|
+|---|---|
+|Exclusively-Dark-Image-Dataset|[Link](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset)|
+|VIP-LowLight Dataset|[Link](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)|
 ## References
 - https://paperswithcode.com/task/image-enhancement
