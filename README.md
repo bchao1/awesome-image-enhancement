@@ -4,7 +4,9 @@ A curated list of image enhancement and denoising papers.
 ## Table of Contents
 - General Enhancement
 - Low light / Extremely low light
+- Image denoising
 - Related papers
+- References
 
 ## General Enhancement
 |Paper|Supervised|Link|Conference|Notes|
@@ -29,3 +31,6 @@ For low light settings, **denoising** is a very important factor.
 |Paper|Supervised|Link|Conference|Notes|
 |---|---|---|---|---|
 |Deep Image Prior|No|[Link](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|CVPR 2018||
+
+## References
+- https://paperswithcode.com/task/image-enhancement
