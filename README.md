@@ -45,7 +45,7 @@ For low light settings, **denoising** is a very important factor.
 ## Datasets
 |Dataset|Link|
 |---|---|
-|Exclusively-Dark-Image-Dataset|[Paper](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset)|
-|VIP-LowLight Dataset|[Paper](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)|
+|Exclusively-Dark-Image-Dataset|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset)|
+|VIP-LowLight Dataset|[Dataset](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)|
 ## References
 - https://paperswithcode.com/task/image-enhancement
