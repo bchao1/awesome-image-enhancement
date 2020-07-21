@@ -28,14 +28,17 @@ For low light settings, **denoising** is a very important factor.
 |A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising||[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf)|CVPR 2020|
 |Enhancing Low Light Videos by Exploring High Sensitivity Camera Noise||[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Enhancing_Low_Light_Videos_by_Exploring_High_Sensitivity_Camera_Noise_ICCV_2019_paper.pdf)|ICCV 2019|Video|
 |Underexposed Photo Enhancement Using Deep Illumination Estimation||[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)|CVPR 2019|Underexposed photos|
-|EnlightenGAN: Deep Light Enhancement without Paired Supervision||[Paper](https://arxiv.org/abs/1906.06972)/[Github](https://github.com/TAMU-VITA/EnlightenGAN)|arXiv Preprint|use GANs|
+|EnlightenGAN: Deep Light Enhancement without Paired Supervision||[Paper](https://arxiv.org/abs/1906.06972)/[Github](https://github.com/TAMU-VITA/EnlightenGAN)|arXiv preprint|use GANs|
 |MBLLEN: Low-light Image/Video Enhancement Using CNNs||[Paper](http://bmvc2018.org/contents/papers/0700.pdf)|BMVC 2018|Video|
 |Kindling the Darkness: A Practical Low-light Image Enhancer||[Github](https://github.com/zhangyhuaee/KinD)|ACMMM 2019||
 |Deep Retinex Decomposition for Low-Light Enhancement||[Paper](https://arxiv.org/abs/1808.04560)/[Github](https://github.com/weichen582/RetinexNet)|BMVC 2018||
 
-### Traditional
-|Paper|Supervised|Link|Conference|Notes|
-|---|---|---|---|---|
+### Non-learning
+|Paper|Link|Conference|Notes|
+|---|---|---|---|
+|A weighted variational model for simultane- ous reflectance and illumination estimation|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780673)|CVPR 2016||
+|Lime: Low-light image enhancement via illumination map estimation|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7782813)|TIP 2017||
+|Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model|[Paper]()|TIP 2018||
 
 ## Related papers
 |Paper|Supervised|Link|Conference|Notes|
