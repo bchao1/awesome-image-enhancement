@@ -32,6 +32,7 @@ For low light settings, **denoising** is a very important factor.
 |MBLLEN: Low-light Image/Video Enhancement Using CNNs||[Paper](http://bmvc2018.org/contents/papers/0700.pdf)|BMVC 2018|Video|
 |Kindling the Darkness: A Practical Low-light Image Enhancer||[Github](https://github.com/zhangyhuaee/KinD)|ACMMM 2019||
 |Deep Retinex Decomposition for Low-Light Enhancement||[Paper](https://arxiv.org/abs/1808.04560)/[Github](https://github.com/weichen582/RetinexNet)|BMVC 2018||
+|Attention Guided Low-light Image Enhancement with a Large Scale Low-light Simulation Dataset||[Paper](https://arxiv.org/pdf/1908.00682v3.pdf)|arXiv preprint||
 
 ### Non-learning
 |Paper|Link|Conference|Notes|
@@ -39,6 +40,8 @@ For low light settings, **denoising** is a very important factor.
 |A weighted variational model for simultane- ous reflectance and illumination estimation|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780673)|CVPR 2016||
 |Lime: Low-light image enhancement via illumination map estimation|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7782813)|TIP 2017||
 |Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model|[Paper]()|TIP 2018||
+
+## Image denoising
 
 ## Related papers
 |Paper|Supervised|Link|Conference|Notes|
@@ -50,5 +53,8 @@ For low light settings, **denoising** is a very important factor.
 |---|---|
 |Exclusively-Dark-Image-Dataset|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset)|
 |VIP-LowLight Dataset|[Dataset](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)|
+|The Darmstadt Noise Dataset|[Dataset](https://noise.visinf.tu-darmstadt.de)|
+|MBLLEN dataset|[Dataset](http://phi-ai.org/project/MBLLEN/default.htm)|
+|Vonikakis's hardest low light cases dataset|[Dataset](https://sites.google.com/site/vonikakis/datasets)|
 ## References
 - https://paperswithcode.com/task/image-enhancement
